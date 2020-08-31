@@ -1,6 +1,6 @@
 # PrecisionPlanting2020 to CSV
 
-This console app has been designed to simply extract data from Precision Planting 20|20 GEN 3 files and write it in a CSV file. I used code from PrecisionPlanting2020 Adapt plugin examples  (https://github.com/PrecisionPlanting/ADAPT-2020-examples.git) and code from ADAPT Visualizer (https://github.com/ADAPT/ADAPT-Visualizer.git).
+This console app has been designed to simply extract data from Precision Planting 20|20 GEN 3 files and write it in a CSV file. I used code from PrecisionPlanting2020 ADAPT plugin examples  (https://github.com/PrecisionPlanting/ADAPT-2020-examples.git) and code from ADAPT Visualizer (https://github.com/ADAPT/ADAPT-Visualizer.git).
 The input is a .2020 file and the output is one csv per OperationData.
 
 The arguments are : 
